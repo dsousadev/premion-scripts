@@ -4,7 +4,7 @@
     {
       "id": "ctf-tool",
       "name": "CTF Tool",
-      "version": "0.9.2",
+      "version": "1.0.0",
       "description": "Convert Creative Trafficking Form xlsx files into Prism Bulk-Associate-Line-Items uploads",
       "file": "scripts/ctf-tool.user.js",
       "matches": ["https://prism.octillion.tv/*"],
