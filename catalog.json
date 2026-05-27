@@ -26,7 +26,7 @@
       "id": "email-helper",
       "name": "Email Helper",
       "version": "1.0.0",
-      "description": "Generate Outlook-compatible .eml drafts from Google Sheets station data",
+      "description": "Automatically draft your Ready to Go Live, Awaiting/Expiring Creatives, and Live Sports emails from the team doc — formatted and sent to the correct stations",
       "file": "scripts/email-helper.user.js",
       "matches": ["https://docs.google.com/spreadsheets/d/1EQwTclB0QPJwgIEmdX7RM9kEgxbaMuuSfDEndCartlI/*"],
       "runAt": "document_idle",
