@@ -5,7 +5,7 @@
       "id": "ctf-tool",
       "name": "CTF Tool",
       "version": "1.0.0",
-      "description": "Upload a Creative Trafficking Form and automatically pull line item IDs, flight dates, and creative IDs to bulk associate them in Prism",
+      "description": "Upload a Creative Trafficking Form and automatically pull advertiser IDs, line item IDs, flight dates, and creative IDs to bulk associate them in Prism",
       "file": "scripts/ctf-tool.user.js",
       "matches": ["https://prism.octillion.tv/*"],
       "runAt": "document_idle",
